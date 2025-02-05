@@ -1,2 +1,2 @@
 # projet-drb-esb-arago
-Présentation des projet pédagogique du BTS DRB
+Présentation des projets pédagogiques du BTS DRB de l'ESN ARAGO
